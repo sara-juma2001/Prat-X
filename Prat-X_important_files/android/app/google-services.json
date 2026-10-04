@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409903901528",
+    "project_id": "part-time-jobs-b671c",
+    "storage_bucket": "part-time-jobs-b671c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409903901528:android:c0c8e033474f89cd4d532d",
+        "android_client_info": {
+          "package_name": "com.example.part_time_jobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-ejmooHEfzn8qKcb-eaIYQ8MjRjARvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
